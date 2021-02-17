@@ -2,7 +2,7 @@
       <v-card>
         <h3 class="text-md-left headline">
           Runkosarja kenttä <span v-if="this.match_field">{{this.match_field}}</span><span v-else>TBD</span>
-          <span style="float:right;">{{ this.match_time | moment('YYYY-MM-DD HH:MM') }}</span>
+          <span style="float:right;">{{ this.match_time | moment('YYYY-MM-DD HH:mm') }}</span>
         </h3>
         <v-row>
           <v-container fill-height>
