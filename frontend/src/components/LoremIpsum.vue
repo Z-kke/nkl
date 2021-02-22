@@ -3,6 +3,16 @@
     <v-layout column>
       <v-flex>
 
+        <h2>HOX!</h2>
+
+        <p>
+          LTKY:n kanssa käydyn keskustelun jälkeen PoWi on päättänyt, että NKL ottelut pelataan tästä eteenpäin yhdellä kentällä kerrallaan 
+          iltaisin klo 17-21. NKL otteluiden aikana Gardenilla ei saa olla muuta toimintaa. NKL loppukauden aikataulua muutetaan NKLN myöhemmän päätöksen mukaisesti. 
+          PoWi suosittelee päivätreenien varaamista Gardenin kalenterin kautta, ilmoittamalla Elmolle +358452322829 wa tai tg.
+        </p>
+
+
+
         <h2>Uusi sivusto</h2>
 
         <p>
